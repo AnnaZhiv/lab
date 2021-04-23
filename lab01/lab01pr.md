@@ -41,7 +41,7 @@ paginate: true
 
  ---
 
- ![Функционирующая виртуальная машина](C:\Users\annaz\OneDrive\Изображения\lab01\3(1).png)
+ ![Функционирующая виртуальная машина](https://github.com/AnnaZhiv/lab/blob/main/lab01/lab01/3(1).png)
 
  ---
  
