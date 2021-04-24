@@ -36,7 +36,7 @@ paginate: true
 
 Сейчас я могу проделывать все важнейшие операции через консоль.
 
- ![работа](C:\Users\annaz\OneDrive\Изображения\lab06\4.png)
+ ![работа](https://github.com/AnnaZhiv/lab/blob/main/lab03/1.png)
 
  ---
  
