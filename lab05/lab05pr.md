@@ -36,7 +36,7 @@ paginate: true
 
 Сейчас я могу проделывать все важнейшие операции через консоль.
 
- ![Функционирующая виртуальная машина]https://github.com/AnnaZhiv/lab/blob/main/lab05/lab05/14.png)
+ ![Функционирующая виртуальная машина](https://github.com/AnnaZhiv/lab/blob/main/lab05/lab05/14.png)
 
  ---
  
