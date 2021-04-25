@@ -38,7 +38,7 @@ paginate: true
 
 Сейчас я могу в полной мере использовать Markdown для создания отчетов.
 
- ![работа](C:\Users\annaz\OneDrive\Изображения\1.png)
+ ![работа](https://github.com/AnnaZhiv/lab/blob/main/lab07/lab07/1.png)
 
  ---
  
