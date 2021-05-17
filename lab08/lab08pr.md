@@ -36,10 +36,10 @@ paginate: true
 
 Сейчас я могу в полной мере использовать Midnight Commander для различной работы с файлами.
 
- ![внешний вид mc](C:\Users\annaz\OneDrive\Изображения\lab08\2.png)
- ![внешний вид mc](C:\Users\annaz\OneDrive\Изображения\lab08\4.png)
- ![внешний вид mc](C:\Users\annaz\OneDrive\Изображения\lab08\10.png)
- ![внешний вид mc](C:\Users\annaz\OneDrive\Изображения\lab08\14.png)
+ ![внешний вид mc](lab08/2.png)
+ ![внешний вид mc](lab0/4.png)
+ ![внешний вид mc](lab08/10.png)
+ ![внешний вид mc](lab08/14.png)
 
  ---
  
